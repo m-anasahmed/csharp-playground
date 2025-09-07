@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Snippet11Demo/1.0.0": {
+        "runtime": {
+          "Snippet11Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Snippet11Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
