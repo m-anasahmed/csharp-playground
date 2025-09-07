@@ -57,3 +57,48 @@
 //     }
 // }
 
+// 04
+// class Person
+// {
+//     // Variable
+//     public string Name;
+//     // Constructor
+//     public Person(string name)
+//     {
+//         Name = name;
+//     } 
+// }
+// class Program
+// {
+//     static void Main()
+//     {
+//         var p = new Person("Anas");
+//         Console.WriteLine(p.Name);
+//     }
+// }
+
+//05
+// class Animal { public virtual void Speak() => Console.WriteLine("This is original me."); }
+// class Dog : Animal { public override void Speak() => Console.WriteLine("I override the context of this method."); }
+// class Program
+// {
+//     static void Main()
+//     {
+//         Animal animal = new Animal();
+//         animal.Speak();
+
+//         Dog dog = new Dog();
+//         dog.Speak();
+//     }
+// }
+
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        var introduce = new Student { name = "Anas", age = 21 };
+        introduce.Introduce();
+    }
+}

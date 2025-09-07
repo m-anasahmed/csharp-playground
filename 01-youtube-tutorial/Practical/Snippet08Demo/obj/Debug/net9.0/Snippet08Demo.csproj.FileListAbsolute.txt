@@ -1,0 +1,15 @@
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\bin\Debug\net9.0\Snippet08Demo.exe
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\bin\Debug\net9.0\Snippet08Demo.deps.json
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\bin\Debug\net9.0\Snippet08Demo.runtimeconfig.json
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\bin\Debug\net9.0\Snippet08Demo.dll
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\bin\Debug\net9.0\Snippet08Demo.pdb
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\obj\Debug\net9.0\Snippet08Demo.GeneratedMSBuildEditorConfig.editorconfig
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\obj\Debug\net9.0\Snippet08Demo.AssemblyInfoInputs.cache
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\obj\Debug\net9.0\Snippet08Demo.AssemblyInfo.cs
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\obj\Debug\net9.0\Snippet08Demo.csproj.CoreCompileInputs.cache
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\obj\Debug\net9.0\Snippet08Demo.sourcelink.json
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\obj\Debug\net9.0\Snippet08Demo.dll
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\obj\Debug\net9.0\refint\Snippet08Demo.dll
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\obj\Debug\net9.0\Snippet08Demo.pdb
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\obj\Debug\net9.0\Snippet08Demo.genruntimeconfig.cache
+F:\01CodeBase\csharp-playground\01-youtube-tutorial\Practical\Snippet08Demo\obj\Debug\net9.0\ref\Snippet08Demo.dll
