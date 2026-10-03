@@ -1,0 +1,429 @@
+# ============================================================
+# .NET / C# / Visual Studio GitIgnore
+# Repository: Csharp Playground
+# ============================================================
+
+
+# ------------------------------------------------------------
+# Build output
+# ------------------------------------------------------------
+
+[Bb]in/
+[Oo]bj/
+
+# .NET generated files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.nupkg
+
+# Keep source-generated files out
+Generated/
+generated/
+
+
+# ------------------------------------------------------------
+# Visual Studio
+# ------------------------------------------------------------
+
+.vs/
+
+# Visual Studio user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio profiling
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio Code coverage
+*.coverage
+*.coveragexml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Visual Studio Code
+.vscode/
+
+
+# ------------------------------------------------------------
+# JetBrains Rider / IntelliJ
+# ------------------------------------------------------------
+
+.idea/
+*.sln.iml
+
+
+# ------------------------------------------------------------
+# Rider / ReSharper generated
+# ------------------------------------------------------------
+
+*.userprefs
+
+
+# ------------------------------------------------------------
+# NuGet
+# ------------------------------------------------------------
+
+packages/
+*.nupkg
+*.snupkg
+
+# NuGet package restore
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet local cache
+.nuget/
+
+
+# ------------------------------------------------------------
+# .NET CLI
+# ------------------------------------------------------------
+
+*.csproj.user
+*.fsproj.user
+*.vbproj.user
+
+# dotnet tools
+.dotnet/
+
+
+# ------------------------------------------------------------
+# ASP.NET / Web Development
+# ------------------------------------------------------------
+
+# Local development settings
+appsettings.Local.json
+appsettings.*.Local.json
+
+# ASP.NET generated files
+wwwroot/lib/
+
+# User secrets
+secrets.json
+
+# ASP.NET development certificate
+*.pfx
+
+
+# ------------------------------------------------------------
+# Entity Framework Core
+# ------------------------------------------------------------
+
+# Local database files
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# EF temporary files
+efbundle/
+
+
+# ------------------------------------------------------------
+# Logs
+# ------------------------------------------------------------
+
+*.log
+logs/
+Log/
+Logs/
+
+
+# ------------------------------------------------------------
+# Test results
+# ------------------------------------------------------------
+
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+
+# Coverage
+coverage/
+coverage-report/
+*.coverage
+*.coveragexml
+*.opencover.xml
+*.cobertura.xml
+
+
+# ------------------------------------------------------------
+# Docker
+# ------------------------------------------------------------
+
+# Local Docker environment files
+.env
+.env.*
+!.env.example
+
+# Docker override files
+docker-compose.override.yml
+
+# Docker volumes
+docker-data/
+.docker/
+
+
+# ------------------------------------------------------------
+# Environment / Secrets
+# ------------------------------------------------------------
+
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Common secret files
+*.secret
+*.secrets
+secrets/
+.secrets/
+
+# Certificates / private keys
+*.key
+*.pem
+*.p12
+
+
+# ------------------------------------------------------------
+# Local configuration
+# ------------------------------------------------------------
+
+*.local.json
+*.local.xml
+
+# User-specific launch settings
+Properties/launchSettings.user.json
+
+
+# ------------------------------------------------------------
+# Publish output
+# ------------------------------------------------------------
+
+publish/
+Publish/
+*.publishsettings
+
+# Azure publish profiles
+Properties/PublishProfiles/
+
+
+# ------------------------------------------------------------
+# Temporary files
+# ------------------------------------------------------------
+
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+~$*
+
+
+# ------------------------------------------------------------
+# Windows
+# ------------------------------------------------------------
+
+# Windows thumbnail cache
+Thumbs.db
+Thumbs.db:encryptable
+
+# Windows folder configuration
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Windows Search
+*.stackdump
+
+
+# ------------------------------------------------------------
+# macOS
+# ------------------------------------------------------------
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS folder attributes
+._*
+
+# Spotlight
+.Spotlight-V100
+
+# Trash
+.Trashes
+
+# Finder
+.fseventsd
+
+
+# ------------------------------------------------------------
+# Linux
+# ------------------------------------------------------------
+
+*~
+.directory
+
+# Temporary files
+*.swp
+*.swo
+
+
+# ------------------------------------------------------------
+# Node.js (useful if you later add React/Next.js)
+# ------------------------------------------------------------
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+.npm/
+.yarn/
+.pnpm-store/
+
+.next/
+.nuxt/
+dist/
+build/
+
+# Vite
+.vite/
+
+# Environment files
+.env
+.env.*
+
+
+# ------------------------------------------------------------
+# Python (useful if you add Python projects later)
+# ------------------------------------------------------------
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.python-version
+
+.venv/
+venv/
+env/
+ENV/
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+*.egg-info/
+.eggs/
+dist/
+build/
+
+
+# ------------------------------------------------------------
+# Jupyter
+# ------------------------------------------------------------
+
+.ipynb_checkpoints/
+
+
+# ------------------------------------------------------------
+# SQL / Local database backups
+# ------------------------------------------------------------
+
+*.bak.sql
+*.sql.bak
+*.dump
+
+
+# ------------------------------------------------------------
+# Azure / Cloud local files
+# ------------------------------------------------------------
+
+.azure/
+.azure-dev/
+azds.yaml
+
+
+# ------------------------------------------------------------
+# User-specific folders
+# ------------------------------------------------------------
+
+*.user
+*.userosscache
+*.suo
+
+
+# ------------------------------------------------------------
+# Crash dumps
+# ------------------------------------------------------------
+
+*.dmp
+*.hdmp
+
+
+# ------------------------------------------------------------
+# Large generated files
+# ------------------------------------------------------------
+
+*.zip
+*.rar
+*.7z
+
+# NOTE:
+# Do NOT store large generated files in Git.
+# Use Git LFS if you intentionally need them.
+
+
+# ------------------------------------------------------------
+# Local development databases / data
+# ------------------------------------------------------------
+
+Data/
+data/
+Database/
+database/
+LocalDatabase/
+
+
+# ------------------------------------------------------------
+# Temporary project folders
+# ------------------------------------------------------------
+
+temp/
+tmp/
+Temp/
+Tmp/
+
+
+# ------------------------------------------------------------
+# OS / IDE metadata
+# ------------------------------------------------------------
+
+*.pid
+*.pid.lock
+*.seed
+*.tgz
+
+
+# ------------------------------------------------------------
+# End
+# ------------------------------------------------------------
