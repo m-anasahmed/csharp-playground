@@ -1,6 +1,6 @@
 // ************************************************************
-// Lectures 03 - Accept User Input
-Console.WriteLine("Lecture 03");
+// Unit 03 - Accept User Input
+Console.WriteLine("========== Unit 03 ==========");
 // ************************************************************
 
 // Provided Example:
@@ -27,3 +27,6 @@ Console.WriteLine("Oh, I love " + favoriteDrink + " too!");
 
 // string age = Console.ReadLine();
 // Console.WriteLine(age + 1); // This causes an error! or simply print it as 251 if you input 25.
+
+
+// End of Code

@@ -1,10 +1,10 @@
-// Rename the file as Program.cs and we can run it.
+// Copy the Code from this file to Program.cs and then run it.
 
-// Lecture 01 - Lecture one was about Introduction
+// Unit 01 - Lecture one was about Introduction
 
 // ************************************************************
-// Lectures 02 - Display Console Output (Practical Start from this Lecture)
-Console.WriteLine("Lecture 02");
+// Unit 02 - Display Console Output (Practical Start from this Lecture)
+Console.WriteLine("========== Unit 02 ==========");
 // ************************************************************
 
 Console.WriteLine("Hello, World!");
@@ -43,3 +43,6 @@ Console.Write("world!");
 Console.WriteLine("\nHello");
 Console.WriteLine(" ");
 Console.WriteLine("world!");
+
+
+// End of Code.
